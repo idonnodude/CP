@@ -1,5 +1,5 @@
 # CP
-Solutions to the various CP questions solved by me on the various sites
+Solutions to the various Competetive Programming questions solved by me.
 
 Programming Language Used - C++
 
